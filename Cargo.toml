@@ -1,0 +1,8 @@
+[package]
+name = "to_default"
+version = "0.1.0"
+authors = ["York Xiang <bombless@126.com>"]
+description = "This library provides a convenient way to repalce a typical usuage of `mem::replace`"
+license = "MIT"
+
+[dependencies]
